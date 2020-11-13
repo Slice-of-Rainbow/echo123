@@ -1,1 +1,1 @@
-print('echo234')
+print('echo')
